@@ -2,7 +2,7 @@
 Mesh From Halfspaces
 **********************************
 
-.. figure:: image.png
+.. figure:: mesh-from-halfspaces.png
     :figclass: figure
     :class: figure-img img-fluid
 
